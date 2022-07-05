@@ -60,4 +60,4 @@ Rozwiązując to zadanie możesz przyjąć następujące zasady ułatwiające ro
 
     Może Ci się przydać standardowa procedura `classify_float`, która ułatwia odróżnienie nieskończoności, symbolu nieokreślonego i zwykłych liczb.
 
-Twoje rozwiązanie ma być umieszczone w pliku o nazwie arytmetyka.ml i pasować do specyfikacji interfejsu [**arytmetyka.mli**](TODO).
+Twoje rozwiązanie ma być umieszczone w pliku o nazwie arytmetyka.ml i pasować do specyfikacji interfejsu [**arytmetyka.mli**](https://github.com/kfernandez31/WPF-1-AV-Arithmetic/blob/main/src/arytmetyka.mli).

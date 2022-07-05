@@ -4,7 +4,7 @@ What you see is a repository of my solution for task no. 1. of the [Introduction
 
 # Brief description
 
-The task was to TODO
+The task was to write a library of arithmetic operations performed on approximate values (ones encumbered with measurement errors) represented as intervals.
 
 # Full description 
 
